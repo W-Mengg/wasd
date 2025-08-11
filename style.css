@@ -1,0 +1,107 @@
+body {
+    background:rgb(255, 255, 255) 
+  }
+  
+  p {
+    color: aliceblue;
+    font-size: 25px
+  }
+  h1 {
+    text-align: center;
+    font-size: 60px;
+    color: aliceblue;
+    font-family: 'Press Start 2P';  
+  }
+  h2{
+    font-size: 50px;
+    text-align: inherit;
+    font-family: 'Caveat';
+    font-weight: bolder;
+    color: aliceblue;
+    
+  }
+  h3{
+    font-size:40px;
+    text-align: inherit;
+    font-family: 'Caveat';
+    font-weight: bolder;
+    color: aliceblue;
+  
+  }
+  .main-img {
+    width: 300px;
+    float: right;
+    margin-right: 0px;
+    margin-top: -50px;
+    
+  }
+  .main-ros {
+    width: 300px;
+    float: right;
+    margin-right: 0px;
+    margin-top: -50px;
+  }
+  .main-Ran{
+    width: 300px;
+    float: right;
+    margin-right: 0px;
+    margin-top: -50px;
+  }
+  header {
+    background: #433f3f;
+    color: #ffffff;
+    padding: px ;
+    text-align: center;
+  }
+  a{
+    color: aliceblue;
+    font-size:20px;
+    text-decoration: none;
+  }
+  .nav {
+      text-align: center;
+      margin: 20px 0;
+      
+  }
+  .nav a {
+      margin: 0 10px;
+      text-decoration: none;
+      color: aliceblue;
+      font-weight: bold;
+      font-family: 'Caveat';
+      font-size: 30px;
+  }
+    .nav a:hover {
+      color: #007bff;
+    }
+  .container {
+    width: 50%;
+    margin: auto;
+    overflow: hidden;
+  }
+  section {
+    margin: 20px 0;
+    padding: 20px;
+    background:#686060;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  footer {
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+  }
+  li{
+    color: aliceblue
+  }
+  myImage{
+    background-image:
+    url("IMG_20240731_154006.png");
+    float: left;
+    position: absolute;
+  }
+  audio{
+    color: #9c0000;
+  }
